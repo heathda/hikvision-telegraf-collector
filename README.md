@@ -1,4 +1,4 @@
-# hikvision-telegra-collector
+# hikvision-telegraf-collector
 Hikvision IP Camera Telegraf SNMP Collector
 
 ## Statistics Collected
